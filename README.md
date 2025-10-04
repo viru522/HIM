@@ -1,1 +1,1 @@
-# HIM
+# HIM (Hardware inventory management)
